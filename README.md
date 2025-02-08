@@ -7,10 +7,10 @@ In this project, I analyzed **Airbnb price trends by bedroom number and location
 
 📈 Dashboard Overview
 The dashboard presents key metrics related to Airbnb listings in Seattle, based on five distinct sheets:
-1. **Price per Zipcode (Map):** A geographical map visualizing average Airbnb prices across Seattle's zip codes.
-2. **Price per Zipcode (Bar Chart):** A bar chart comparing average prices per zip code for easier comparison.
-3. **Average Price per Bedroom:** Displays how prices vary depending on the number of bedrooms.
-4. **Revenue for the Year:** A time series line chart showing revenue trends week by week throughout 2016.
+1. **Price per Zipcode (Bar Chart):** A bar chart comparing average prices per zip code for easier comparison. 
+2. **Price per Zipcode (Map):** A geographical map visualizing average Airbnb prices across Seattle's zip codes.
+3. **Revenue for the Year:** A time series line chart showing revenue trends week by week throughout 2016.
+4. **Average Price per Bedroom:** Displays how prices vary depending on the number of bedrooms.
 5. **Distinct Count of Bedroom Listings:** A table showing the number of listings by bedroom count.
 
 All these sheets are combined into an interactive dashboard to provide clear insights into Airbnb pricing trends and listing distributions in Seattle.
