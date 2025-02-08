@@ -10,4 +10,4 @@ This project analyzes Airbnb price trends by bedroom number and location in 2016
 - Explore the data visualizations on price trends, bedroom listings, and revenue analysis.
 
 Dataset:
-https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset
+[View the dataset here](https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset)
