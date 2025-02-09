@@ -24,7 +24,7 @@ The dataset used for this project is publicly available on Kaggle:
 [🔗 View the Dataset Here](https://www.kaggle.com/datasets/airbnb/seattle)
 
 
-📊 **Key Insights from the Analysis**
+## 📊 **Key Insights from the Analysis**
 
 1️⃣ **Price per Zipcode (Bar Chart & Map)**
 - **Observation:**  
@@ -71,6 +71,6 @@ The dataset used for this project is publicly available on Kaggle:
 
 
 
-🚀 **Conclusion**
+## 🚀 **Conclusion**
 Through this analysis, it’s clear that **location, property size, and seasonality** are the key drivers of Airbnb pricing and revenue trends in Seattle. This project demonstrates how data visualization can uncover meaningful insights to inform business strategies for short-term rental markets.
 
