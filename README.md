@@ -15,6 +15,11 @@ The dashboard presents key metrics related to Airbnb listings in Seattle, based 
 
 All these sheets are combined into an interactive dashboard to provide clear insights into Airbnb pricing trends and listing distributions in Seattle.
 
+##🌟 Dashboard Preview
+(Here’s an overview of the interactive dashboard in action)
+![image](https://github.com/user-attachments/assets/b3b0168d-fdd8-45f4-aeab-e6e4e689cb87)
+
+
 ## 🚀 How to Use
 - Open the `airbnb.twbx` file with Tableau Desktop or Tableau Public.
 - Explore the data visualizations to analyze price trends, bedroom listings, and revenue patterns.
