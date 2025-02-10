@@ -17,7 +17,7 @@ All these sheets are combined into an interactive dashboard to provide clear ins
 
 ##🌟 Dashboard Preview
 (Here’s an overview of the interactive dashboard in action)
-![image](https://github.com/user-attachments/assets/b3b0168d-fdd8-45f4-aeab-e6e4e689cb87)
+![image](airbnb_dashboard_preview.png)
 
 
 ## 🚀 How to Use
